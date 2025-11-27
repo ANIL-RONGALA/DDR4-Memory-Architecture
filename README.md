@@ -1,8 +1,3 @@
-# DDR4-Memory-Architecture
-
-Creating a clear, professional README is essential for a GitHub repository. Since your project is a highly technical, interactive visualization, the README should emphasize both the educational value and the technical implementation, explicitly noting the use of AI tools for conceptualization.
-
-Here is a full README markdown (README.md) you can use for your public GitHub repository (ddr4-memory-viz).
 
 🧠 DDR4 Memory Architecture: Interactive Deep Dive Visualization
 This project is a single-page interactive visualization that breaks down the complex DDR4 memory hierarchy, guiding users from the high-level Memory Channel down to the fundamental DRAM Cell (1T1C structure). It serves as a comprehensive educational tool for students and professionals interested in computer architecture and memory operation.
