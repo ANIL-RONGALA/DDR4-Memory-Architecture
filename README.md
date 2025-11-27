@@ -1,3 +1,5 @@
+#  DDR4 Memory Architecture
+---
 
 🧠 DDR4 Memory Architecture: Interactive Deep Dive Visualization
 This project is a single-page interactive visualization that breaks down the complex DDR4 memory hierarchy, guiding users from the high-level Memory Channel down to the fundamental DRAM Cell (1T1C structure). It serves as a comprehensive educational tool for students and professionals interested in computer architecture and memory operation.
